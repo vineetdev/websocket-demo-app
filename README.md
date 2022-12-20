@@ -23,3 +23,9 @@ And you should see in the middle screen your name with message.
 Open another browser and enter the Username and message.
 Now when any message is typed from one user it will be shown in both the users window.
 ![image](https://user-images.githubusercontent.com/13249515/208617908-114d8a53-c5ad-48e6-ad50-176ba5aecb0b.png)
+
+And in the command prompt you will see below logs:
+![image](https://user-images.githubusercontent.com/13249515/208618224-a0983285-5aa3-4e23-8d9b-4c536d61c741.png)
+
+In above logs you would see websocket connected line for each user browser windows.
+For each message sent by a user a log line will come.
